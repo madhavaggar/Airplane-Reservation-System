@@ -1,2 +1,3 @@
 # Airplane-Reservation-System
 An Airplane reservation system on C++ with an interactive GUI.
+Gives users an opportunity to set up their accounts as either an Employee or as public User. Passwords are encrypted and stored. Users can perform functions as choose a flight modify their bookings and even cancel their bookings. Waiting list is maintained in the case of the flight becoming full. Flights added can be either one stop or two stop with advanced features as deciding the division between the economy and the business class seats. Flight Routes can be made once cities are added to the database. 
